@@ -1,0 +1,1 @@
+This is a simple project to perform a fortune teller app. It involves two AWS components - API Gateway, and Lambda function. The design is such that the Lambda function calls a webpage, in which we have a simple code to predict the fortune of end users.
